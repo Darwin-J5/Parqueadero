@@ -8,7 +8,9 @@ Este es un sistema para la gestión de un parqueadero, diseñado utilizando el p
 - Gestión de clientes (regulares y visitantes).
 - 
 El proyecto está estructurado modularmente siguiendo el diagrama UML y emplea GitFlow para la gestión del desarrollo.
-# Clases del Sistema
+# Diagrama de Clases
+A ontinuacion se presenta el diagrama de clase utilizdo para realizar el codigo junto con la descripcion de cada una de sus clases:
+![Parqueadero](Parqueadero.png)
 ## Persona
 
 Clase base para representar a cualquier individuo (clientes o empleados).
